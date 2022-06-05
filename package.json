@@ -28,6 +28,7 @@
     "serve": "webpack serve"
   },
   "dependencies": {
+    "nodemon": "^2.0.16",
     "pixi.js": "^6.2.0"
   }
 }
